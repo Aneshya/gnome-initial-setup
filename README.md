@@ -108,7 +108,7 @@ existing_user_only=language;keyboard
 # Only show the privacy page in the 'first boot' situation
 new_user_only=privacy
 ```
-
+some changes done
 License
 -------
 
